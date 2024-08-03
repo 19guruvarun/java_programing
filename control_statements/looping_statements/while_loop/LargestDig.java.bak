@@ -1,0 +1,16 @@
+class LargestDig
+{
+	public static void main(String[] args) 
+	{
+		int n=38127,larDig=n%10;
+		n=n/10;
+		while(n>0)
+		{
+			int dig=n%10;
+			if(dig>larDig)
+				larDig=dig;
+			n=n/10;
+		}
+		System.out.println(larDig);
+	}
+}

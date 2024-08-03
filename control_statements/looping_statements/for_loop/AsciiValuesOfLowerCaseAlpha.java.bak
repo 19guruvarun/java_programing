@@ -1,0 +1,15 @@
+
+class AsciiValuesOfLowerCaseAlpha
+{
+	public static void main(String[] args) 
+	{
+		System.out.println("ASCII  values of UpperCase Alphabets: ");
+		for(char i='A';i<='Z';i++)
+		{
+			
+				System.out.print((int)i+" ");
+		}
+		
+		
+	}
+}

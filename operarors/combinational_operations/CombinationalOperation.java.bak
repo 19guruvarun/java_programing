@@ -1,0 +1,14 @@
+class CombinationalOperation
+{
+	public static void main(String[] args) 
+	{
+		int a=10,b=20;
+		
+		System.out.println("Value after Adding 2 to the value a of "+a+" using combinational operator += is : "+(a+=2));
+		System.out.println("Value after Substracting 2 from the value a of "+a+" using combinational operator -= is : "+(a-=2));
+		System.out.println("Value after Multiplicating 2 to the value a of "+a+" using combinational operator +* is : "+(a*=2));
+		System.out.println();
+		System.out.println();
+
+	}
+}

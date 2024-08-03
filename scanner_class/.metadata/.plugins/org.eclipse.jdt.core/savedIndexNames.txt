@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+E:\Jspiders\Java_programing\scanner_class\.metadata\.plugins\org.eclipse.jdt.core
